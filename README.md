@@ -5,7 +5,7 @@ General Information
 
 ### Title:
 
-*Trimmed and masked alignment of 65 MDV genomes for GWAS and related analyses*
+*R Scripts for MDV GWAS Analyses*
 
 ### Author Information:
 
